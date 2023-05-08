@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15584598943",
+    "project_id": "login-f1e72",
+    "storage_bucket": "login-f1e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15584598943:android:5209ee59ad050b29fcfbaa",
+        "android_client_info": {
+          "package_name": "com.example.shashank.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15584598943-c0mu1l76flsql54evuddubkumjmc0sal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDm46SsnMlVDkVX4jj9FomNOYXmUhlwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15584598943-c0mu1l76flsql54evuddubkumjmc0sal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
